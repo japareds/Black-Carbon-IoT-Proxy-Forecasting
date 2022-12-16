@@ -1,11 +1,11 @@
-*** Black Carbon Forecasting proxy **
-The objective is to predict BC concentration (ug/m3) using measurements of other pollutants
-The measurements are obtained for Palau Reial Reference Station
+# Black Carbon proxy forecasting
 
----
-Measured quantities: BC, O3, NO2, UFP(N), PM1, PM2.5, PM10, SO2, NOx, CO2, T, RH, Vmax, P
-ANN architectures: LSTM, GRU, RNN, TDNN (1DCNN)
----
+This code aims to predict BC concentration (ug/m3) using measurements of other pollutants obtained via IoT devices located 
+at Palau Reial Reference Station, Barcelona, Spain.
+
+
+**Measured quantities: BC, O3, NO2, UFP(N), PM1, PM2.5, PM10, SO2, NOx, CO2, T, RH, Vmax, P
+Methods implemented: LSTM, GRU, RNN, TDNN (1DCNN)**
 
 Specify parameters on run_train.sh
 

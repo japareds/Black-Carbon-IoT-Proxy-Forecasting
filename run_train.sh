@@ -40,7 +40,7 @@ do
 	do
 		for n_hl in {6..18..6}
 		do
-			python BCTP_Parallel.py --train -p ${predictors} -sl ${time_window} -a ${architecture} -hl ${hl} -nhl ${n_hl} -lr ${lr} -b${batch_size} -nd ${n_devices} -nw ${num_workers}
+			python BCPF.py --train -p ${predictors} -sl ${time_window} -a ${architecture} -hl ${hl} -nhl ${n_hl} -lr ${lr} -b${batch_size} -nd ${n_devices} -nw ${num_workers}
 		done
 	done
 done

@@ -1,4 +1,4 @@
-# Black Carbon proxy forecasting
+# Black Carbon Temporal Proxy
 
 This code aims to predict BC concentration (ug/m3) using measurements of other pollutants obtained via IoT devices located 
 at Palau Reial Reference Station, Barcelona, Spain.

@@ -13,6 +13,7 @@ at Palau Reial Reference Station, Barcelona, Spain.
 Specify parameters on run_train.sh
 Visualize validation logger using visualize.sh
 Run model on testing set using runt_test.sh
+Run MLproxy.sh for non temporal models
 
 Scripts are located in /Scripts folder
 Files are located in /Files folder (restricted access)

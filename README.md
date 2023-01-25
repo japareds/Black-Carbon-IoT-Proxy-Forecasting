@@ -19,3 +19,5 @@ Scripts are located in /Scripts folder
 Files are located in /Files folder (restricted access)
 Results are located in /Results folder (restricted access)
 
+
+**To do: include effective training techniques (https://pytorch-lightning.readthedocs.io/en/stable/advanced/training_tricks.html)**

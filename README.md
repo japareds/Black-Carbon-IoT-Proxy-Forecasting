@@ -9,6 +9,7 @@ Methods implemented: LSTM, GRU, RNN, TDNN (1DCNN)**
 
 Specify parameters on run_train.sh
 
-Files are located in /Files folder
-Results are located in /Results folder
+Scripts are located in /Scripts folder
+Files are located in /Files folder (restricted access)
+Results are located in /Results folder (restricted access)
 
